@@ -100,6 +100,8 @@
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
+<<<<<<< HEAD
+=======
 }
 
 .experience-contents,
@@ -135,4 +137,5 @@
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
+>>>>>>> main
 }
